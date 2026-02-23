@@ -25,7 +25,7 @@
     {
       "binding": "edge_taskflow_db",
       "database_name": "edge_taskflow_db",
-      "database_id": "77607fd7-0e97-4cc2-bd45-94440d208115",
+      "database_id": "fecca2bd-c38b-4fa7-8e6e-ac15706fd6bc",
       "remote": true
     }
   ],
@@ -33,7 +33,7 @@
   "kv_namespaces": [
     {
       "binding": "TF_SESSIONS",
-      "id": "799d7a4e6400423ba87f72d3cec53dc"
+      "id": "47b4608d8f354ccc8fe40ae2ca6f3402"
     }
   ],
 
